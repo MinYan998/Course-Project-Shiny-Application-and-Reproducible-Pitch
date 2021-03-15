@@ -5,4 +5,4 @@ The application predicts the price of diamonds.
 
 The final result can be seen [**here**] https://minyan2021.shinyapps.io/Course_project/.
 
-The presentation explaining the application can be seen [**here**](http://rpubs.com/avkch/248607)
+The presentation explaining the application can be seen [**here**] https://rpubs.com/MINYAN2021/739099
