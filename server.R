@@ -43,6 +43,5 @@ shinyServer(function(input, output) {
         res <- paste(round(pred, digits = 2), "$")
         res
     })
-  
-})
+ })
 
